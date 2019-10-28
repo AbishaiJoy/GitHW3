@@ -6,5 +6,9 @@ public class Main
     {
         System.out.println("Hello world");
     }
+     public void methodInMaster()
+    {
+        System.out.println("Method in master");
+    }
 
 }
